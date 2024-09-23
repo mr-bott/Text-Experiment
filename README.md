@@ -22,8 +22,11 @@ Features:-
 <<----------------------------------------------------------------- // Added Features // --------------------------------------------------------------->>
 
   In addition to text analysis and string replacement, the app includes the following text formatting features:
+  
  ----> Bold: Apply bold formatting to the selected text.
+ 
  ----> Underline: Add underline to the selected text.
+ 
  ----> Custom Styles: Apply custom styles for better text representation.
 
 
